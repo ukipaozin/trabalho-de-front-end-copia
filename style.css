@@ -20,3 +20,7 @@ body{
     background-color:rgb(255, 223, 154) ;
     color: black;
 }
+a{
+  text-decoration: none;
+  text-align: left;
+}
