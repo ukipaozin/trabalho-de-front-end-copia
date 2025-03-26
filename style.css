@@ -12,13 +12,15 @@ h1 {
 #ingredientes{
   background-color:rgb(255, 192, 76);
   text-decoration: none;
-  color: black;
-  
+}
+#tartaruga{
+  text-decoration: none;
+  text-align: left;
+  color: green;
 }
 
 body{
     background-color:rgb(255, 223, 154) ;
-    color: black;
 }
 a{
   text-decoration: none;
