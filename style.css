@@ -26,11 +26,12 @@ a{
   text-decoration: none;
   text-align: left;
 }
-.redes{
+nav.redes img{
   height: 30px;
-  transition: all 0.3s ease;
-  padding: 3px;
+  transition: all 0.35s;
+  padding: 2px;
+  bottom: auto;
 }
-.redes:hover{
+nav.redes img:hover{
   scale: 1.2;
 }
